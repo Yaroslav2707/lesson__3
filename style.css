@@ -1,0 +1,55 @@
+@import "null.css";
+body{
+background-color: rgb(189, 189, 180);
+}
+.header .header__text{
+position: absolute;
+font-size: 60px;
+top: 20px;
+left: 347px;
+width: 100%;
+color:rgb(7, 7, 7);
+text-shadow: rgb(210, 228, 210) 5px 0 5px;
+}
+.header .header__photo{
+width: 1290px;
+height: 500px;
+}
+.container .page__photo{
+width:800px;
+height: 600px;
+padding-left: 300px;
+}
+.container .page-text{
+	font-size: 25px;
+	color: rgb(0, 4, 255);
+	margin: 30px;
+}
+.drift__manual,
+.drift__manual1{
+	padding: 10px;
+	font-size: 30px;
+	color: rgb(243, 16, 16);
+	text-align: center;
+}
+[class*=__text2]{
+font-size: 25px;
+padding: 20px;
+line-height: 35px;
+}
+.drifter-skills .drifter-item{
+	font-size: 25px;
+	padding: 60px;
+	line-height: 35px;
+}
+.drifter-skills span {
+	color: rgb(243, 16, 16);
+	font-size: 30px;
+	margin-left: 510px;
+}
+.drifter-skills  > p {
+color: rgb(0, 0, 0);
+font-size: 25px;
+line-height: 35px;
+padding: 20px;
+}
